@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oddisy',
   tagline: 'Building your own world',
-  url: 'https://kodrick.com',
-  baseUrl: '/oddisy/',
+  url: 'https://Kodrick.github.io',
+  baseUrl: '/oddisy_documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'kodrick', // Usually your GitHub org/user name.
+  organizationName: 'Kodrick', // Usually your GitHub org/user name.
   projectName: 'oddisy_documentation', // Usually your repo name.
   trailingSlash: false,
 
