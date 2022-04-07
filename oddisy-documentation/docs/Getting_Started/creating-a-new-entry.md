@@ -23,7 +23,7 @@ First we need to select an Entry Type.
 
 :::info
 
-Entry Types allow you to organize your entries and also provide a way to have reusable templates that add specific fields during creation. For more information on this visit Entry Types   
+Entry Types allow you to organize your entries and also provide a way to have reusable templates that add specific fields during creation. For more information on this visit [Entry Types](../Concepts/entries#entry-types)   
 
 :::
 

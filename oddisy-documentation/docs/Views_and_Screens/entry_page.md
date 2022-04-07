@@ -89,7 +89,7 @@ Number fields can be edited in the same way as text fields, by clicking on the w
 
 :::info
 
-Numbers are displayed using a number format allowing you to display things such as “25 lbs” or “$15.00”. For more information on how to use this system visit Number Formats
+Numbers are displayed using a number format allowing you to display things such as “25 lbs” or “$15.00”. For more information on how to use this system visit [Number Formats](../Concepts/entry_fields#number-format)
 
 :::
 
