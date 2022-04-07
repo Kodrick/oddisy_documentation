@@ -6,7 +6,8 @@ sidebar_position: 1
 
 ## What is a Universe
 
-A Universe is essentially a project. It holds all the following:
+A Universe is what Oddisy calls a project. It holds all of the following:
+
 
 * [Entries](./entries)
 * [Custom Fields](./custom_fields)
