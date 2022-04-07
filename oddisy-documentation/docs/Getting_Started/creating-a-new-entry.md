@@ -39,7 +39,7 @@ When creating a World Entry there will not be the option to add to another world
 
 :::info
 
-For More information on adding Images visit [Image Database](./creating-a-new-universe)
+For More information on adding Images visit [Image Database](../Views_and_Screens/image_database)
 
 :::
 

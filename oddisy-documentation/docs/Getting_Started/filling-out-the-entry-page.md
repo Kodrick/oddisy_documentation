@@ -24,7 +24,7 @@ This will popup the Add New Field Dialog which will allow you to choose Field Ty
 
 :::info
 
-For more information on the Supported Field Types visit [Entry Fields](./creating-a-new-universe)
+For more information on the Supported Field Types visit [Entry Fields](../Concepts/entry_fields)
 
 :::
 
@@ -46,7 +46,7 @@ Odissy comes with some built in custom fields that you can use in your entries.
 
 :::info
 
-For more information on how to create your own custom fields visit [Custom Fields](./creating-a-new-universe)
+For more information on how to create your own custom fields visit [Custom Fields](../Concepts/custom_fields)
 
 :::
 

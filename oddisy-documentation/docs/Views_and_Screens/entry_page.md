@@ -21,7 +21,7 @@ You can add images by clicking on the **+** button in the image widget. This wil
 
 :::info
 
-For more information on how the image db system works visit [Image Database System](./image_database.md)
+For more information on how the image db system works visit [Image Database System](./image_database)
 
 :::
 
