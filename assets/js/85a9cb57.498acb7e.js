@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoddisy_documentation=self.webpackChunkoddisy_documentation||[]).push([[2268],{3723:function(o){o.exports=JSON.parse('{"permalink":"/oddisy_documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

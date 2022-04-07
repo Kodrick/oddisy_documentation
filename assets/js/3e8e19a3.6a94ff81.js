@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoddisy_documentation=self.webpackChunkoddisy_documentation||[]).push([[7765],{5085:function(o){o.exports=JSON.parse('{"allTagsPath":"/oddisy_documentation/blog/tags","name":"docusaurus","count":4,"permalink":"/oddisy_documentation/blog/tags/docusaurus"}')}}]);

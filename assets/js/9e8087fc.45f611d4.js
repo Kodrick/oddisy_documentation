@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoddisy_documentation=self.webpackChunkoddisy_documentation||[]).push([[1233],{9885:function(o){o.exports=JSON.parse('{"allTagsPath":"/oddisy_documentation/blog/tags","name":"hola","count":1,"permalink":"/oddisy_documentation/blog/tags/hola"}')}}]);
