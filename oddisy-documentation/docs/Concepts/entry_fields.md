@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: Entry Fields
 ---
-
-# Entry Fields
 
 ## What is an Entry Field
 
@@ -72,9 +71,7 @@ The List Field is for anything that can be represented as a list of Short Text I
 
 ### Image
 
-:::danger
-NOT SUPPORTED
-:::
+An Image field can hold a single image.
 
 ## Default Values
 

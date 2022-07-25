@@ -1,45 +1,45 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import stayOrg from '../../../static/img/Stay_Organized.png'
+import fleshOutWorld from '../../../static/img/Flesh Out Your World.png'
+import visCon from '../../../static/img/Visualize Connections.png'
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Stay Organized',
+    image: stayOrg,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Keep Track of All of your Characters, Locations, Items, etc.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Flesh Out Your World',
+    image: fleshOutWorld,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Detail out everything about your world in an easy-to-use Database
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Visualize Connections',
+    image: visCon,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Link everything together with visual connections between all of your entries using the High Level View
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+      <div className="text--center featureImage">
+      <img src={image} className="featureImage"></img>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

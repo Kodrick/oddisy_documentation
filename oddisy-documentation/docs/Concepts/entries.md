@@ -1,18 +1,17 @@
 ---
 sidebar_position: 2
+title: Entries
 ---
-
-# Entries
 
 ## What is an Entry
 
-An entry can represent anything in your world or story, from characters, to locations, to items. They hold information via fields and groups and can be linked to any other entry in a given universe. 
+An entry can represent anything in your world or story, from characters, to locations, to items. They hold information via fields and sections and can be linked to any other entry in a given project. 
 
 ## Entry Types
 
 Entry Types allow for organization and can serve as templates for future entries. 
 
-Each Entry Type can have custom fields and groups that get created automatically when an entry of that type is created. 
+Each Entry Type can have custom fields and sections that get created automatically when an entry of that type is created. 
 
 For example, the built in character entry type has the following custom fields included:
 
@@ -22,7 +21,7 @@ For example, the built in character entry type has the following custom fields i
 * Eye Color
 * Skin Color
 
-Which are all part of a group called Basic Data.
+Which are all part of a section called Basic Data.
 
 ![fullscreen image](../../static/img/concepts/entries/character_built_in.JPG)
 
@@ -30,15 +29,15 @@ You can edit what custom fields and groups are included via the Entry Types Sett
 
 ![fullscreen image](../../static/img/concepts/entries/entry_types.JPG)
 
-:::tip
+<!-- :::tip
 
 You can also create your own Custom Entry Types.
 
-For example, if you were writing a story with multiple superheroes, you could create a superhero type. This type can have custom fields like superpowers, and groups for allies and villains. This makes it easy to quickly populate new entries with information that is similar between multiple entries, minimizing how much effort it takes to create a new entry and ready it to be a valuable part of your Universe.
+For example, if you were writing a story with multiple superheroes, you could create a superhero type. This type can have custom fields like superpowers, and groups for allies and villains. This makes it easy to quickly populate new entries with information that is similar between multiple entries, minimizing how much effort it takes to create a new entry and ready it to be a valuable part of your Project.
 
-:::
+::: -->
 
-## Aliases
+<!-- ## Aliases
 
 Aliases provide a way to have different versions of the same character. 
 
@@ -113,4 +112,4 @@ The primary alias is indicated by the [crown] icon in the alias bar.
 
 You can change the primary alias at any time by right clicking on the Alias that you want to be the new primary alias in the alias bar, then selecting the Make Primary Alias option.
 
-![fullscreen image](../../static/img/concepts/entries/primary_alias.gif)
+![fullscreen image](../../static/img/concepts/entries/primary_alias.gif) -->

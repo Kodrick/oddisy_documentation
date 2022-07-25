@@ -1,36 +1,48 @@
 ---
 sidebar_position: 2
+title: Creating a New Entry
 ---
 
-# Creating a New Entry
-
-After opening up your newly created Universe you will be greeted with the Home Screen. This screen displays pinned and recent entries. 
+After opening up your newly created Project you will be greeted with the Home Screen. This screen helps you create and view entries by type.
 You also can search all of your entries via the search bar at the top of the screen.
 
 ![Home Screen Empty](../../static/img/getting_started/home_screen_empty.JPG)
 
-Right now the only Entry is the World entry that is automatically created when the Universe is created.
+:::info
+
+You can switch between the entry types via the side bar
+
+:::
+
+Right now the only Entry is the World entry that is automatically created when the Project is created. You can view it by switching to the **World** entry type, or by selecting **All** in the Entry Types Section of the sidebar.
+
+
+![Home Screen Initial World](../../static/img/getting_started/Home_Screen_Initial_world.JPG)
 
 ## Create your first Entry
 
-Let's create a new Entry to get started. To create a new entry, click the **+** (Add Entry) button on the side bar. This will open up the Entry Creation Dialog.
+Let's create a new Character entry to get started. To create a new Character entry, switch to **Character** in the the Entry Types Section of the sidebar, and click on the **ADD CHARACTER** button. 
 
-![Home Screen Add Button](../../static/img/getting_started/home_screen_empty_add.JPG)
+This will open up the Entry Creation Dialog, which allows you to set the name and add images to the Entry. You will also need to choose a World entry for the new entry to go under. 
 
-First, we need to select an Entry Type. 
+![CHaracter Creation Dialog](../../static/img/getting_started/character_creation.gif)
+
+
+
+:::info
+
+If you have **All** selected in the Entry Types Section of the sidebar, and you click the **ADD ENTRY** button you will be greeted with a dialog that allows you to choose what entry type you want to create.
 
 ![Home Screen Add Button](../../static/img/getting_started/entry_type_selection.JPG)
+
+:::
+
 
 :::info
 
 Entry Types allow you to organize your entries and also provide reusable templates that add specific fields during creation. For more information on this visit [Entry Types](../Concepts/entries#entry-types).
 
-
 :::
-
-After selecting the type, you will see another dialog that allows you to set the name and add images to the Entry. You will also need to choose a World entry for the new entry to go under. 
-
-![Home Screen Add Button](../../static/img/getting_started/entry_creation_dialog.JPG)
 
 :::note
 
@@ -44,5 +56,9 @@ For More information on adding Images, visit [Image Database](../Views_and_Scree
 
 :::
 
-After clicking done, your new entry will be created and you will be taken to the Entry Page.
+After clicking done, your new entry will be created and will appear in the home page.
+
+
+![Home Screen with Entry](../../static/img/getting_started/home_page_with_entry.JPG)
+
 

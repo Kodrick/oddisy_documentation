@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: Entry Page
 ---
-
-# Entry Page
 
 The Entry Page shows all the information of an entry.
 
@@ -15,7 +14,7 @@ The Image Widget holds all the images associated with an entry.
 
 ### Adding Images
 
-You can add images by clicking on the **+** button in the image widget. This will open up the Image Picker dialog which allows you to select existing images from the image database and add new images from your computer.
+You can add images by clicking on the **+** button on the image widget. This will open up the Image Picker dialog which allows you to select existing images from the image database and add new images from your computer.
 
 ![Image Picker](../../static/img/views_and_screens/entry_page/image_picker.JPG)
 
@@ -27,7 +26,9 @@ For more information on how the image database system works, visit [Image Databa
 
 ### Deleting Images
 
-You can delete images from the entry using the [trash] button. This will delete the image from the entry itself, but will not delete the image from the database.
+You can delete images from the entry using the **trash** button on the image widget. This will delete the image from the entry itself, but will not delete the image from the database.
+
+![Delete Image](../../static/img/views_and_screens/entry_page/delete_image.gif)
 
 ### Reordering Images
 
@@ -38,9 +39,14 @@ You can reorder the Images by clicking on the [reorder] button. This will open u
 Simply drag the images into the order that you want them to appear.
 
 ### Viewing the Image at a larger size
-Clicking on the Image itself will open a larger version of the image, and allow you to change the name of the image and where the image is found on your computer.
+Clicking on the Image itself will open a larger version of the image, and allow you to change the name of the image in the Image Database and even replace the image in the database with a different image on your computer.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/fullscreen_image.JPG)
+:::note
+
+Replacing the image will overwrite the image in the database. This is really only useful if you want to update the image with a new version that you have made changes to.
+
+:::
 
 ## Name and Description Widget
 
@@ -51,7 +57,7 @@ The Name Widget allows you to assign a name to your entry, which can be changed 
 
 To change the name simply click on the name, edit it to the desired name, and click the enter key to save.
 
-![Reorder Image Dialog](../../static/img/views_and_screens/entry_page/edit_name.gif)
+![Edit Name](../../static/img/views_and_screens/entry_page/edit_name.gif)
 
 ### Description Widget
 
@@ -59,7 +65,7 @@ The Description Field holds a description of the entry.
 
 The description is automatically saved when editing. You'll know it's saved successfully when a green checkbox appears.
 
-![Reorder Image Dialog](../../static/img/views_and_screens/entry_page/desc_edit.gif)
+![Edit Description](../../static/img/views_and_screens/entry_page/desc_edit.gif)
 
 :::info
 
@@ -133,17 +139,30 @@ To delete items from the list, right click on the item that you want to delete, 
 
 ### Image
 
-:::danger
+The Image Widget can hold one image. When first inserting the image widget you can select an image by clicking on the Image Widget.
 
-This feature is not yet supported.
+This will open up the Image Picker Dialog. 
+
+![Image Widget Image Selection](../../static/img/views_and_screens/entry_page/image_widget_selection.gif)
+
+You can view a full version of the Image by clicking on the image widget.
+
+![Image Widget Image Selection](../../static/img/views_and_screens/entry_page/image_widget_fullscreen.gif)
+
+:::tip
+
+You can also switch the image out from the fullscreen viewer.
+
+![Image Widget Image Selection](../../static/img/views_and_screens/entry_page/image_widget_fullscreen_switch.gif)
 
 :::
+
 
 ## Editing Field Name
 
 To edit a Field name, simply click on the Field Name. This will open up a dialog asking you for the new Field name.
 
-![fullscreen image](../../static/img/views_and_screens/entry_page/edit_field_name.JPG)
+![fullscreen image](../../static/img/views_and_screens/entry_page/edit_field_name.gif)
 
 ## Custom Fields
 
@@ -159,11 +178,11 @@ Custom Fields are indicated with a lock symbol next the the Field name.
 
 :::
 
-## Adding Fields to Groups
+## Adding Fields to Sections
 
-### Adding a New Field to a Group
+### Adding a New Field to a Section
 
-Click the **+** button next to the Group and select the field option. 
+Click the **ADD FIELD** button under the Section and select the field option. 
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/group_name.JPG)
 
@@ -171,19 +190,14 @@ Use the New Field dialog to create a field.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/field_dialog.JPG)
 
-### Adding an existing field to a group
+### Adding an existing field to a Section
 
-Right click on the field that you want to add to a group, and select the add to group option. 
+Right click on the field that you want to add to a Section, and select the **Move to Group** option. 
 
-Select the group from the list and click done.
+Select the Section from the list and click done.
 
-![fullscreen image](../../static/img/views_and_screens/entry_page/add_field_to_group.GIF)
+![fullscreen image](../../static/img/views_and_screens/entry_page/add_field_to_group.gif)
 
-:::tip
-
-You can edit a Field's group in the same way by right clicking and selecting the **Move to Group** option instead.
-
-:::
 
 ## Adding Linked Entry's to a Group
 
@@ -204,7 +218,7 @@ Right click on the Linked Entry that you want to add to a group, then select the
 
 Select all the groups from the list that you want this linked entry to be a part of, then click done.
 
-![fullscreen image](../../static/img/views_and_screens/entry_page/add_entry_to_group.GIF)
+![fullscreen image](../../static/img/views_and_screens/entry_page/add_entry_to_group.gif)
 
 :::tip
 
@@ -212,9 +226,9 @@ You can edit a Linked Entry group in the same way by selecting the Edit Groups o
 
 :::
 
-## Other Linked Entry Section
+## Linked Entry Section
 
-Any Linked Entries that are not in a group will appear in the Other Linked Entries Section at the bottom of the page. Similar to the Home Page, this can be opened with a press.
+All Entries that a linked to the current Entry will appear in the Linked Entries Section on the right hand side the page, and will be organized by their entry type.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/other_linked_entries.JPG)
 
@@ -232,8 +246,8 @@ This will open up the Relationship dialog.
 
 You can edit both the Linked Entry’s Relationship to the Current entry, and the entry’s relationship to the linked entry. 
 
-![fullscreen image](../../static/img/views_and_screens/entry_page/edit_relationship.GIF)
+![fullscreen image](../../static/img/views_and_screens/entry_page/edit_relationship.gif)
 
-## Alias Bar
+<!-- ## Alias Bar
 
-The Alias bar shows all aliases for the current entry. For more information on what aliases are and how to use them, visit [Aliases](../Concepts/entries#aliases).
+The Alias bar shows all aliases for the current entry. For more information on what aliases are and how to use them, visit [Aliases](../Concepts/entries#aliases). -->

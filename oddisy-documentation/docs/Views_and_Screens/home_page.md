@@ -1,31 +1,31 @@
 ---
 sidebar_position: 1
+title: Home Page
 ---
-
-# Home Page
 
 The Home page serves as a wiki for all of your entries. 
 
-![fullscreen image](../../static/img/views_and_screens/home_screen/home_screen.JPG)
+![Home Screen](../../static/img/views_and_screens/home_screen/home_screen.JPG)
 
-## Pinned Entries
+You can easily switch between entry types using the *Entry Type Selectors* in the sidebar.
 
-The Pinned entry section contains all entries that you have pinned. You can pin an entry from the Entry Page by clicking on the [pin] button.
 
-![fullscreen image](../../static/img/views_and_screens/home_screen/pinned.JPG)
+![Entry Type Filtering](../../static/img/views_and_screens/home_screen/entry_type_filtering.gif)
 
-## Recent Entries
+## Favorites section
 
-Recent Entries will show the most recently created and viewed entries.
+The *Favorites Section* contains all entries that you have favorited. You can favorite an entry by clicking on the Star Icon in the top section of the entry page or from the right click menu on the home page.
 
-## All Entries Section
+![Favorites Section](../../static/img/views_and_screens/home_screen/pinned.JPG)
 
-The bottom of the Home Page has a bar which can be expanded when clicked. This shows all the entries in your Universe.
+## Recents Section
 
-![fullscreen image](../../static/img/views_and_screens/home_screen/all_entries.JPG)
+The *Recents Section* will show the most recently created and viewed entries.
+
+![Recents Section](../../static/img/views_and_screens/home_screen/recent_entries.JPG)
 
 ## Searching Entries
 
-You can search through all of your entries using the search bar at the top.
+You can search via the search bar at the top right of the screen.
 
-![fullscreen image](../../static/img/views_and_screens/home_screen/search.JPG)
+![Search Entries](../../static/img/views_and_screens/home_screen/searchbar.gif)

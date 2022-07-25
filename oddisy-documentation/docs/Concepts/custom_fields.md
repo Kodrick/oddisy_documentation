@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
+title: Custom Fields
 ---
 
-# Custom Fields
 
 ## What is a Custom Field
 

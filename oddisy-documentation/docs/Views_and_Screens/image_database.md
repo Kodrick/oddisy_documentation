@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Image Database
 ---
-
-# Image Database
 
 The image database is where all of your images are stored and organized.
 
@@ -28,15 +27,18 @@ Unlike the way normal folders work, Images can be stored in multiple collections
 
 To add an image, click on the add button in the bottom right hand corner and select the **Image** option, or right click and select the Add Image option.
 
-If you are in a collection this will open up the Image Picker Dialog, which will allow you to add existing images from the Image Database, or new images from your computer.
-
-
-![Reorder Image Dialog](../../static/img/views_and_screens/image_database/add_image_general.gif)
 
 If you are not in a collection, this will open up a file dialog allowing you to add new images from your computer.
 
+![Reorder Image Dialog](../../static/img/views_and_screens/image_database/add_image_general.gif)
+
+
+:::info
+If you are in a collection this will open up the Image Picker Dialog, which will allow you to add existing images from the Image Database, or new images from your computer.
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/image_database/add_image_collection.gif)
+:::
+
 
 ## Adding Collections
 
@@ -76,13 +78,13 @@ From here you can edit the name from the Image Name field.
 ![Reorder Image Dialog](../../static/img/views_and_screens/image_database/rename.gif)
 
 
-## Relinking an Image
+## Replacing an Image
 
-Sometimes an image needs to be relinked. This means you have moved the location of the image on your computer, or you have a new version of the image that you want to replace it with.
+Sometimes an image needs to be replaced, like if you have a new version of the image that you want to replace it with.
 
-To relink the image, click on the image you want to relink. This will open up the larger view of the image. 
+To replace the image, click on the image you want to replace. This will open up the larger view of the image. 
 
-From here, you can click on the Image Path field and it will open a dialog allowing you to select the new image file or file location.
+From here, you can click on the **Replace Image is Assets**  button and it will open a dialog allowing you to select the new image file or file location.
 
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/image_database/relink.gif)

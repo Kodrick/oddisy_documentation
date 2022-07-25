@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oddisy',
-  tagline: 'Building your own world',
+  tagline: 'Craft amazing and complex stories',
   url: 'https://Kodrick.github.io',
   baseUrl: '/oddisy_documentation/',
   onBrokenLinks: 'throw',
@@ -56,10 +56,15 @@ const config = {
             position: 'left',
             label: 'Documenation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.kodrick.com/',
+            label: 'Kodrick',
+            position: 'right',
+          },
+          {
+            href: 'https://www.kodrick.com/oddisy',
+            label: 'Download',
             position: 'right',
           },
         ],
@@ -71,25 +76,34 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'What is Oddisy',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Getting Started',
+                to: '/docs/Getting_Started/creating-a-new-project',
               },
             ],
           },
           {
             title: 'Community',
             items: [
+              
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UCqV6Swnk2-v2yjx6FVAF99A',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Patreon',
+                href: 'https://www.patreon.com/kodrick',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/KodrickLLC/',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/kodrick_software/',
               },
             ],
           },
@@ -97,17 +111,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                href: 'https://www.kodrick.com/',
+                label: 'Kodrick',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://www.kodrick.com/oddisy',
+                label: 'Download',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kodrick LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
