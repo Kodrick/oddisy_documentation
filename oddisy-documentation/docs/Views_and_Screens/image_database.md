@@ -3,13 +3,13 @@ sidebar_position: 4
 title: Image Database
 ---
 
-The image database is where all of your images are stored and organized.
+The Image Database is where all of your images are stored and organized.
 
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/image_database/image_database.JPG)
 
 * The Image Bar - This will show a scrollable bar of images and can be set to show all images or only unorganized images.
-* The Collections Section - This section shows all the collections and images that are in the selected collections
+* The Collections Section - This section shows all the collections and images that are in the selected collections.
 
 ## What are Collections
 
@@ -42,16 +42,16 @@ If you are in a collection this will open up the Image Picker Dialog, which will
 
 ## Adding Collections
 
-To add a collection, click on the add button in the bottom right hand corner and select the Collection option or right click and select the **Add Collection** option.
+To add a Collection, click on the add button in the bottom right hand corner and select the Collection option, or right click and select the **Add Collection** option.
 
-This will popup a dialog asking for the collection name. Enter the name and click done.
+This will create a dialog asking for the Collection name. Enter the name and click done.
 
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/image_database/add_collection.gif)
 
 ## Adding Images to Collections
 
-Images can be added to collections two ways
+Images can be added to Collections in two ways:
 
 * Click on the add button in the bottom right hand corner, then select the Image option, or right click and select the Add Image option. 
 This will open up the Image Picker Dialog, which will allow you to add existing images from the Image Database, or new images from your computer.
@@ -64,7 +64,7 @@ This will open up the Image Picker Dialog, which will allow you to add existing 
 
 ## Searching the Image Database
 
-The search bar at the top of the screen allows you to search through all your images and collections.
+The search bar at the top of the screen allows you to search through all of your images and collections.
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/image_database/search.JPG)
 
@@ -80,7 +80,7 @@ From here you can edit the name from the Image Name field.
 
 ## Replacing an Image
 
-Sometimes an image needs to be replaced, like if you have a new version of the image that you want to replace it with.
+Sometimes an image needs to be replaced, for example when you have a new version of the image that you want to replace it with.
 
 To replace the image, click on the image you want to replace. This will open up the larger view of the image. 
 

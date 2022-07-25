@@ -5,7 +5,7 @@ title: Entry Fields
 
 ## What is an Entry Field
 
-Entry fields provide a way of storing information about your entries. 
+Entry fields provide a way of storing information about your Entry. 
 
 ## Types
 
@@ -19,13 +19,13 @@ The Long Text Field is for anything that is too long for a short text field. Thi
 
 ### Number
 
-The Number field is for any numerical data. This can be weight, age, or any other value you want to describe using a number.
+The Number Field is for any numerical data. This can be weight, age, or any other value you want to describe using a number.
 
 #### Number Format
 
 The number field displays the number according to a number format.
 
-On Custom Fields this can be set in the settings.
+On Predefined Fields this can be managed in the Settings Menu.
 
 ![fullscreen image](../../static/img/concepts/entry_fields/number_format.JPG)
 
@@ -55,9 +55,11 @@ The Dropdown field is for anything that has a set number of possible options.
 
 An example would be Species: Human, Animal, Alien, Robot.
 
+When used in tandem with Predefined Fields, this makes it easy to note the race of different Entries.
+
 :::note 
 
-Dropdowns work best when used as a Custom Field.
+Dropdowns work best when used as a Predefined Field.
 
 :::
 
@@ -67,7 +69,7 @@ The Color field is for anything that can be described as a color.
 
 ### List
 
-The List Field is for anything that can be represented as a list of Short Text Items. 
+The List Field is for anything that can be represented as a list of Short Text Widgets. 
 
 ### Image
 
@@ -75,8 +77,8 @@ An Image field can hold a single image.
 
 ## Default Values
 
-You can set the default value for all of the fields in the Default Values Page in the Settings.
+You can set the default value for all of the Fields in the Default Values Page in the Settings.
 
-These default values will be used every time you create a new field.
+These default values will be used every time you create a new Field of that Predefined Field type.
 
 ![fullscreen image](../../static/img/concepts/entry_fields/default_values.JPG)

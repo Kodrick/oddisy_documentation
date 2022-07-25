@@ -3,11 +3,11 @@ sidebar_position: 1
 title: Home Page
 ---
 
-The Home page serves as a wiki for all of your entries. 
+The Home page serves as a sort of Wiki for all of your entries. 
 
 ![Home Screen](../../static/img/views_and_screens/home_screen/home_screen.JPG)
 
-You can easily switch between entry types using the *Entry Type Selectors* in the sidebar.
+You can easily switch between Entry Types using the *Entry Type Selectors* in the sidebar.
 
 
 ![Entry Type Filtering](../../static/img/views_and_screens/home_screen/entry_type_filtering.gif)

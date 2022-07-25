@@ -3,11 +3,11 @@ sidebar_position: 2
 title: Entry Page
 ---
 
-The Entry Page shows all the information of an entry.
+The Entry Page shows all the information of an Entry.
 
 ## Image Widget
 
-The Image Widget holds all the images associated with an entry.
+The Image Widget holds all the images associated with an Entry.
 
 ![Image Widget](../../static/img/views_and_screens/entry_page/image_widget.JPG)
 
@@ -36,7 +36,7 @@ You can reorder the Images by clicking on the [reorder] button. This will open u
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/entry_page/reorder_images.gif)
 
-Simply drag the images into the order that you want them to appear.
+Simply drag the images into the order that you want them to appear. 
 
 ### Viewing the Image at a larger size
 Clicking on the Image itself will open a larger version of the image, and allow you to change the name of the image in the Image Database and even replace the image in the database with a different image on your computer.
@@ -44,7 +44,7 @@ Clicking on the Image itself will open a larger version of the image, and allow 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/fullscreen_image.JPG)
 :::note
 
-Replacing the image will overwrite the image in the database. This is really only useful if you want to update the image with a new version that you have made changes to.
+Replacing the image will overwrite the image in the database. This is mostly used to replace the image with an updated version.
 
 :::
 
@@ -53,9 +53,9 @@ Replacing the image will overwrite the image in the database. This is really onl
 ![Name and Description](../../static/img/views_and_screens/entry_page/name_and_description.JPG)
 
 ### Name Widget
-The Name Widget allows you to assign a name to your entry, which can be changed at any time.
+The Name Widget allows you to assign a name to your Entry, which can be changed at any time.
 
-To change the name simply click on the name, edit it to the desired name, and click the enter key to save.
+To change the name simply click on the name, change it to the desired name, and press the enter key to save.
 
 ![Edit Name](../../static/img/views_and_screens/entry_page/edit_name.gif)
 
@@ -63,7 +63,7 @@ To change the name simply click on the name, edit it to the desired name, and cl
 
 The Description Field holds a description of the entry.
 
-The description is automatically saved when editing. You'll know it's saved successfully when a green checkbox appears.
+The description is automatically saved when editing. You'll know it's been saved successfully when a green checkbox appears.
 
 ![Edit Description](../../static/img/views_and_screens/entry_page/desc_edit.gif)
 
@@ -76,13 +76,13 @@ A shorter version of the description will appear on Entry Cards on the home scre
 ## Editing Field Widgets
 
 ### Short Text
-Short Text Field Widgets can be edited by clicking on the widget, editing it to the desired text, and clicking the enter key to save.
+Short Text Field Widgets can be edited by clicking on the widget, changing it to the desired text, and pressing the enter key to save.
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/entry_page/edit_short_text.gif)
 
 ### Long Text
 
-Long Text Widgets behave like the description field, automatically saving when edited. Again, a green checkbox will appear on a successful save.
+Long Text Widgets behave like the Description Field, automatically saving when edited. Again, a green checkbox will appear on a successful save.
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/entry_page/edit_long_text.gif)
 
@@ -115,7 +115,7 @@ The Dropdown widget can be edited by clicking on the widget and selecting the de
 
 ### Color
 
-The Color widget can be edited by clicking on the widget. This will open up a Color Picker dialog, allowing you to choose your desired color.
+The Color widget can be edited by clicking on the widget. This will open up a Color Picker Dialog, allowing you to choose your desired color.
 
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/entry_page/edit_color.gif)
@@ -164,15 +164,15 @@ To edit a Field name, simply click on the Field Name. This will open up a dialog
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/edit_field_name.gif)
 
-## Custom Fields
+## Predefined Fields
 
-Custom Fields are edited the same way as regular fields. The only difference is that you cannot change the Field name. The field name of a custom field is set by the Custom Field itself, which can be edited in the Custom Field settings. 
+Predefined Fields are edited the same way as regular fields. The only difference is that you cannot change the Field name. The Field name of a Predefined field is set by the Predefined Field itself, which can be edited in the Predefined Field settings in the Settings Menu. 
 
-For more information, visit [Custom Fields](../Concepts/custom_fields).
+For more information, visit [Custom Fields](../Concepts/predefined_fields).
 
 :::info 
 
-Custom Fields are indicated with a lock symbol next the the Field name.
+Predefined Fields are indicated with a lock symbol next the the Field name.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/custom_field.JPG)
 
@@ -182,15 +182,15 @@ Custom Fields are indicated with a lock symbol next the the Field name.
 
 ### Adding a New Field to a Section
 
-Click the **ADD FIELD** button under the Section and select the field option. 
+Click the **ADD FIELD** button under the Section and select the Field option. 
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/group_name.JPG)
 
-Use the New Field dialog to create a field.
+Use the New Field Dialog to create a field.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/field_dialog.JPG)
 
-### Adding an existing field to a Section
+### Adding an existing Field to a Section
 
 Right click on the field that you want to add to a Section, and select the **Move to Group** option. 
 
@@ -199,42 +199,42 @@ Select the Section from the list and click done.
 ![fullscreen image](../../static/img/views_and_screens/entry_page/add_field_to_group.gif)
 
 
-## Adding Linked Entry's to a Group
+## Adding Linked Entries to a Group
 
 ### Adding a new Linked Entry to a Group
 
-Click the **+** button next to the Group and select the entry option. 
+Click the **+** button next to the Group and select the Entry option. 
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/group_name.JPG)
 
-Use the New Entry Selection dialog to create new entries or select existing ones.
+Use the New Entry Selection dialog to create new Entries or select existing ones.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/entry_selection_dialog.JPG)
 
 
-### Adding an existing Linked Entries to a group
+### Adding an existing Linked Entries to a Section
 
-Right click on the Linked Entry that you want to add to a group, then select the add to group option. 
+Right click on the Linked Entry that you want to add to a Section, then select the add to Section option. 
 
-Select all the groups from the list that you want this linked entry to be a part of, then click done.
+Select all the groups from the list that you want this Linked Entry to be part of, then click done.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/add_entry_to_group.gif)
 
 :::tip
 
-You can edit a Linked Entry group in the same way by selecting the Edit Groups option instead.
+You can edit a Linked Entry in the same way by selecting the Edit Sections option instead.
 
 :::
 
 ## Linked Entry Section
 
-All Entries that a linked to the current Entry will appear in the Linked Entries Section on the right hand side the page, and will be organized by their entry type.
+All Entries that a linked to the current Entry will appear in the Linked Entries Section on the right hand side of the page, and will be organized by their Entry Type.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/other_linked_entries.JPG)
 
 ## Editing a Linked Entries Relationship
 
-Each Linked Entry can have a relationship with the entry linked with it.
+Each Linked Entry can have a relationship with the Entry linked to it.
 
 This relationship will show up under the name on the Linked Entry card.
 
@@ -244,7 +244,7 @@ To edit a relationship, right click on the linked entry card and select the **Ed
 
 This will open up the Relationship dialog. 
 
-You can edit both the Linked Entry’s Relationship to the Current entry, and the entry’s relationship to the linked entry. 
+You can edit both the Linked Entry’s Relationship to the Current entry, and the Entry’s relationship to the Linked Entry. 
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/edit_relationship.gif)
 

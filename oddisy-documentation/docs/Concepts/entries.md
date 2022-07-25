@@ -5,15 +5,15 @@ title: Entries
 
 ## What is an Entry
 
-An entry can represent anything in your world or story, from characters, to locations, to items. They hold information via fields and sections and can be linked to any other entry in a given project. 
+An Entry can represent anything in your world or story, from characters, to locations, to items. They hold information via Fields and Sections and can be linked to any other Entry in a given project. 
 
 ## Entry Types
 
 Entry Types allow for organization and can serve as templates for future entries. 
 
-Each Entry Type can have custom fields and sections that get created automatically when an entry of that type is created. 
+Each Entry Type can have predefined Fields and Sections that can be quickly added to an Entry of that type. 
 
-For example, the built in character entry type has the following custom fields included:
+For example, the built in character entry type has the following Predefined Fields included:
 
 * Age
 * Gender
@@ -25,7 +25,7 @@ Which are all part of a section called Basic Data.
 
 ![fullscreen image](../../static/img/concepts/entries/character_built_in.JPG)
 
-You can edit what custom fields and groups are included via the Entry Types Setting Menu.
+You can edit what Predefined Fields and Sections are included via the Entry Types Menu in the Settings Menu.
 
 ![fullscreen image](../../static/img/concepts/entries/entry_types.JPG)
 

@@ -13,7 +13,7 @@ An Oddisy Project holds all of the following:
     * Project Image
     * Project Description
 * [Entries](./entries)
-* [Custom Fields](./custom_fields)
+* [Predefined Fields](./predefined_fields)
 * [Field Settings](./entry_fields)
 * [Images](../Views_and_Screens/image_database)
 

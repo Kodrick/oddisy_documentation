@@ -3,7 +3,7 @@ sidebar_position: 3
 title: High Level View
 ---
 
-The High Level View allows you to navigate through all of the interconnections of your world quickly.
+The High Level View allows you to navigate through all of the interconnected Entries of your world quickly.
 
 ![fullscreen image](../../static/img/views_and_screens/high_level_view/high_level_view.JPG)
 
@@ -17,7 +17,7 @@ The High Level View also serves as a quick way to link entries and organize mult
 
 ### Basic Navigation
 
-To Navigate the High Level View, simply select a High Level Entry card. This will open the Sections and entries that are contained in the selected Entry.
+To Navigate the High Level View, simply select a High Level Entry card. This will open the Sections and Entries that are contained in the selected Entry.
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/high_level_view/navigating.gif)
 
@@ -39,21 +39,21 @@ If the Entry has an alias, you can switch between them using the alias dropdown.
 
 ## Linking Entries
 
-To link an entry, simply click the **ADD ENTRY** button in the column of the entry or the Section you want to link the entry with.
+To link an Entry, simply click the **ADD ENTRY** button in the column of the Entry or the Section you want to link the Entry with.
 
-This will open up the Entry Selection dialog where you can select entries or create new entries.
+This will open up the Entry Selection Dialog where you can select Entries or create new Entries.
 
 ![Reorder Image Dialog](../../static/img/views_and_screens/high_level_view/link_entry.gif)
 
 :::tip
 
-You can also link entries by right clicking inside the entry or the Section you want to link the entry with, then select the **Add Entry** option.
+You can also link entries by right clicking inside the Entry or the Section you want to link the Entry with, then select the **Add Entry** option.
 
 :::
 
 ## Adding Sections
 
-To add a Sections to an entry, simply **ADD GROUP** button in the column of the entry or the Section you want to create a new section in.
+To add a Sections to an Entry, simply press the **ADD GROUP** button in the column of the Entry or the Section you want to create a new Section in.
 
 A dialog asking for the Sections name will pop up. Enter the name and click done.
 
@@ -61,6 +61,6 @@ A dialog asking for the Sections name will pop up. Enter the name and click done
 
 :::tip
 
-You can also link entries by right clicking inside the entry or the Section you want to link the entry with, then select the **Add Group** option. 
+You can also link Entries by right clicking inside the Entry or the Section you want to link the entry with, then select the **Add Group** option. 
 
 :::

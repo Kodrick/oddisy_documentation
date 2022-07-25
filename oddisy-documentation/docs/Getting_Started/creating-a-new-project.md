@@ -3,13 +3,13 @@ sidebar_position: 1
 title: Creating a New Project
 ---
 
-When opening up Oddisy for the first time you will be greeted with the welcome page. Here you can create new and open existing projects.
+When opening up Oddisy for the first time you will be greeted with the Welcome Page. Here you can open or create new projects.
 
 ![Welcome Screen](../../static/img/getting_started/welcome_screen.JPG)
 
 :::info
 
-Projects in Oddisy hold all of your entries and stories, and can easily be extended to house multiple stories and all of their encompassing entries.
+Projects in Oddisy hold all of your entries and stories, and can easily be extended to house multiple stories and all of their encompassed entries.
 
 :::
 
@@ -17,11 +17,11 @@ To create a new Project click the Create Project button.
 
 ![Create Project Dialog](../../static/img/getting_started/create_new_universe_dialog.JPG)
 
-The dialog will ask for a name for your Project, a name for your default World, a brief description, and an image for you Project.
+The dialog will ask for a name for your Project, a name for your default World, a brief description, and an image for your Project.
 
 :::info
 
-When Creating a Project the only the Project name and default World name are required.
+When Creating a Project, only the Project name and default World name are required.
 
 :::
 
@@ -32,7 +32,7 @@ A World is a special Entry that serves as a place to hold and group entries toge
 
 :::
 
-After creating your new Project, Oddisy's welcome screen will appear. Click on the Project to open it and begin editing.
+After creating your new Project, Oddisy's Welcome Screen will appear. Click on the Project to open it and begin editing.
 
 
 ![Create Project](../../static/img/getting_started/welcome_screen.JPG)
