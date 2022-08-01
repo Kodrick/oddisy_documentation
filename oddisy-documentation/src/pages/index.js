@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title} | Craft amazing and complex stories`}
+      description="Oddisy brings the power of creation and ideation to your fingertips. Quickly and easily create new characters, locations, events, and objects for your story. Describe them, and even plan out how everything is intertwined. The only limits are your imagination!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
