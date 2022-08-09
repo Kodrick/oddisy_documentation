@@ -192,18 +192,18 @@ Use the New Field Dialog to create a field.
 
 ### Adding an existing Field to a Section
 
-Right click on the field that you want to add to a Section, and select the **Move to Group** option. 
+Right click on the field that you want to add to a Section, and select the **Move to Section** option. 
 
 Select the Section from the list and click done.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/add_field_to_group.gif)
 
 
-## Adding Linked Entries to a Group
+## Adding Linked Entries to a Section
 
-### Adding a new Linked Entry to a Group
+### Adding a new Linked Entry to a Section
 
-Click the **+** button next to the Group and select the Entry option. 
+Click the **ADD ENTRY** button under the Section and select the Field option. 
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/group_name.JPG)
 
@@ -216,7 +216,7 @@ Use the New Entry Selection dialog to create new Entries or select existing ones
 
 Right click on the Linked Entry that you want to add to a Section, then select the add to Section option. 
 
-Select all the groups from the list that you want this Linked Entry to be part of, then click done.
+Select all the Sections from the list that you want this Linked Entry to be part of, then click done.
 
 ![fullscreen image](../../static/img/views_and_screens/entry_page/add_entry_to_group.gif)
 

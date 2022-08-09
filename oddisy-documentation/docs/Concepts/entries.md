@@ -33,7 +33,7 @@ You can edit what Predefined Fields and Sections are included via the Entry Type
 
 You can also create your own Custom Entry Types.
 
-For example, if you were writing a story with multiple superheroes, you could create a superhero type. This type can have custom fields like superpowers, and groups for allies and villains. This makes it easy to quickly populate new entries with information that is similar between multiple entries, minimizing how much effort it takes to create a new entry and ready it to be a valuable part of your Project.
+For example, if you were writing a story with multiple superheroes, you could create a superhero type. This type can have custom fields like superpowers, and Sections for allies and villains. This makes it easy to quickly populate new entries with information that is similar between multiple entries, minimizing how much effort it takes to create a new entry and ready it to be a valuable part of your Project.
 
 ::: -->
 
@@ -51,9 +51,9 @@ A dialog will appear asking for a name for your alias.
 
 There is also a number of copying options that you can configure in the dialog:
 
-* Copy Over Description and Groups - *this will copy the description and all of the groups. However, all groups will be empty if the other options are not checked*
-* Copy and link all Entry Fields - *this will change all of the entry fields in the current entry to [Synced Fields](#synced-fields) and copy over all of the groups*
-* Copy over Entry Links - *this will link the new alias to all of the entries that are linked to the current entry and copy over all of the groups*
+* Copy Over Description and Sections - *this will copy the description and all of the sections. However, all sections will be empty if the other options are not checked*
+* Copy and link all Entry Fields - *this will change all of the entry fields in the current entry to [Synced Fields](#synced-fields) and copy over all of the sections*
+* Copy over Entry Links - *this will link the new alias to all of the entries that are linked to the current entry and copy over all of the sections*
 
 
 ![fullscreen image](../../static/img/concepts/entries/alias_creation.gif)

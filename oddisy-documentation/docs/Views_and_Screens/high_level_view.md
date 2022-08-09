@@ -53,7 +53,7 @@ You can also link entries by right clicking inside the Entry or the Section you 
 
 ## Adding Sections
 
-To add a Sections to an Entry, simply press the **ADD GROUP** button in the column of the Entry or the Section you want to create a new Section in.
+To add a Sections to an Entry, simply press the **ADD SECTION** button in the column of the Entry or the Section you want to create a new Section in.
 
 A dialog asking for the Sections name will pop up. Enter the name and click done.
 
@@ -61,6 +61,6 @@ A dialog asking for the Sections name will pop up. Enter the name and click done
 
 :::tip
 
-You can also link Entries by right clicking inside the Entry or the Section you want to link the entry with, then select the **Add Group** option. 
+You can also link Entries by right clicking inside the Entry or the Section you want to link the entry with, then select the **Add Section** option. 
 
 :::
