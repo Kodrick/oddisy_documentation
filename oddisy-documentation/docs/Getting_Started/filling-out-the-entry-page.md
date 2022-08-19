@@ -8,9 +8,9 @@ To open an Entry Page simply click on the entry that you wish to open.
 ![Entry Page](../../static/img/getting_started/open_entry.gif)
 
 The Entry Page is divided into three sections: 
-* The Top Section includes the name of the Entry, the description and images. You can also delete and favorite the entry via the buttons in the top right section. 
-* The bottom left section includes fields and linked entries that are organized into **Sections**
-* The bottom right section shows all of the entries that are linked to this entry. This makes it easier to find specific Entries without other information fields bogging down your search.
+* The Top Bar includes the name of the Entry. You can also delete and favorite the entry via the buttons in the right of the top bar, or navigate back and forward though enrties you have visited using the arrows in the left of the top bar.
+* The left section includes the description, images, fields, and linked entries that are organized into **Sections**
+* The right section shows all of the entries that are linked to this entry. This makes it easier to find specific Entries without other information fields bogging down your search.
 
 ![Entry Page](../../static/img/getting_started/entry_page.JPG)
 
@@ -83,8 +83,8 @@ All of the entries you select will be visible in the *Linked Entries Panel*.
 
 ![Entry Page](../../static/img/getting_started/filled_group_example.JPG)
 
-:::info
+:::tip
 
-You can also add entries to any section by adding it to any Section using the **ADD ENTRY** button under the Section name. This will link the Entry if it is not already linked, adding it to the Section.
+You can also add entries to any section by using the **ADD ENTRY** button under the Section name. This will link the Entry if it is not already linked, adding it to the Section.
 
 :::

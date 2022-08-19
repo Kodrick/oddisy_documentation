@@ -48,18 +48,14 @@ Replacing the image will overwrite the image in the database. This is mostly use
 
 :::
 
-## Name and Description Widget
-
-![Name and Description](../../static/img/views_and_screens/entry_page/name_and_description.JPG)
-
-### Name Widget
+## Name Widget
 The Name Widget allows you to assign a name to your Entry, which can be changed at any time.
 
 To change the name simply click on the name, change it to the desired name, and press the enter key to save.
 
 ![Edit Name](../../static/img/views_and_screens/entry_page/edit_name.gif)
 
-### Description Widget
+## Description Widget
 
 The Description Field holds a description of the entry.
 
@@ -168,7 +164,7 @@ To edit a Field name, simply click on the Field Name. This will open up a dialog
 
 Predefined Fields are edited the same way as regular fields. The only difference is that you cannot change the Field name. The Field name of a Predefined field is set by the Predefined Field itself, which can be edited in the Predefined Field settings in the Settings Menu. 
 
-For more information, visit [Custom Fields](../Concepts/predefined_fields).
+For more information, visit [Predefined Fields](../Concepts/predefined_fields).
 
 :::info 
 

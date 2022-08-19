@@ -17,15 +17,22 @@ To create a new Project click the Create Project button.
 
 ![Create Project Dialog](../../static/img/getting_started/create_new_universe_dialog.JPG)
 
-The dialog will ask for a name for your Project, a name for your default World, a brief description, and an image for your Project.
+The dialog will ask for a name for your Project, the template that you want to use, a name for your default world (if you are using the default template), a brief description, and an image for your Project.
 
 :::info
 
-When Creating a Project, only the Project name and default World name are required.
+When Creating a Project, only the Project name, Template, and default World name are required.
 
 :::
 
+:::info
 
+Oddisy currently has two templates:
+
+* Default - Best for fictional story writing
+* Fairy Tale Example Project - An example Oddisy Project to explore and gain inspiration from.
+
+:::
 :::info
 
 A World is a special Entry that serves as a place to hold and group entries together. It can be used the same as any other Entry, but has a few extra aspects to it. The vast majority of entries will have an associated World entry.

@@ -13,7 +13,7 @@ Entry Types allow for organization and can serve as templates for future entries
 
 Each Entry Type can have predefined Fields and Sections that can be quickly added to an Entry of that type. 
 
-For example, the built in character entry type has the following Predefined Fields included:
+For example, the character entry type, which comes in teh default template, has the following Predefined Fields included:
 
 * Age
 * Gender
@@ -29,13 +29,49 @@ You can edit what Predefined Fields and Sections are included via the Entry Type
 
 ![fullscreen image](../../static/img/concepts/entries/entry_types.JPG)
 
-<!-- :::tip
+## Custom Entry Types
 
 You can also create your own Custom Entry Types.
 
-For example, if you were writing a story with multiple superheroes, you could create a superhero type. This type can have custom fields like superpowers, and Sections for allies and villains. This makes it easy to quickly populate new entries with information that is similar between multiple entries, minimizing how much effort it takes to create a new entry and ready it to be a valuable part of your Project.
+For example, if you were writing a story with **Magical Creatures** that will all have a *Section* for ***Magic Info*** and a *Predifined Field* for ***Magical Abilities***. As well as the default fields and sections that all **Characters** have.
 
-::: -->
+You could create a Custom Entry Type that inherits from **Character** called **Magical Creature** that has the ***Magic Info*** Section and the ***Magical Abilities*** Predifined Field, and since it inherits from **Character** it will also have all of the fields and Sections that **Characters** have.
+
+![fullscreen image](../../static/img/concepts/entries/magical_creatures_example.JPG)
+
+You can also inherit from custom entry types. For example say you had a special **Magical Creature** called a **Vampire** that will all have a *Predifined Field* called ***Vampire Abilities***, which has some prefilled in abilities that all **Vampires** have. As well as the default fields and sections that all **Magical Creature** and **Characters** have.
+
+You could first create a [Predefined List Field](../Concepts/predefined_fields) called **Vampire Abilities** with the default abilities that all vampires will have.
+
+![fullscreen image](../../static/img/concepts/entries/vampire_abilities_example.JPG)
+
+You could then create a Custom Entry Type that inherits from **Magical Creature** called **Vampire** that has the ***Vampire Abilities*** Predifined Field, and since it inherits from **Magical Creature** it will also have all of the fields and Sections that **Magical Creature** and **Characters** have.
+
+![fullscreen image](../../static/img/concepts/entries/vampires_example.JPG)
+
+## Changing Entry Type Icon and Color
+
+You can edit the Icon and color that is associated with each Entry Type by clicking on the Icon in the Entry Type Settings. This will popup a menu to edit either the icon or the color. Select whichever one you want to edit and the appropriate dialog will show up.
+
+
+![fullscreen image](../../static/img/concepts/entries/edit_icon.gif)
+
+![fullscreen image](../../static/img/concepts/entries/edit_color.gif)
+
+:::info
+
+The Icon and color is used throughout Oddisy to indicate the type of an entry, like in the Entry Cards.
+
+![fullscreen image](../../static/img/concepts/entries/entry_card.JPG)
+
+:::
+:::info
+
+When filtering entries inherted Entry Types will be included in Enrty Types that they inherit from
+
+![fullscreen image](../../static/img/concepts/entries/entry_filtering.gif)
+
+:::
 
 <!-- ## Aliases
 

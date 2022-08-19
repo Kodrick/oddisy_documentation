@@ -8,7 +8,7 @@ You can also search all of your entries via the search bar at the top of the scr
 
 ![Home Screen Empty](../../static/img/getting_started/home_screen_empty.JPG)
 
-:::info
+:::tip
 
 You can switch between the Entry Types via the side bar.
 
@@ -17,7 +17,7 @@ You can switch between the Entry Types via the side bar.
 Right now, the only Entry is the World entry that is automatically created when the Project is made. You can view it by switching to the **World** entry type, or by selecting **All** in the Entry Types section of the sidebar.
 
 
-![Home Screen Initial World](../../static/img/getting_started/Home_Screen_Initial_world.JPG)
+![Home Screen Initial World](../../static/img/getting_started/Home_Screen_Initial_World.JPG)
 
 ## Create your First Entry
 
@@ -26,8 +26,6 @@ Let's create a new Character entry to get started. To create a new Character ent
 This will open up the Entry Creation Dialog, which allows you to set the name and add images to the Entry. You will also need to choose a World entry for the new entry to go under. 
 
 ![CHaracter Creation Dialog](../../static/img/getting_started/character_creation.gif)
-
-
 
 :::info
 
