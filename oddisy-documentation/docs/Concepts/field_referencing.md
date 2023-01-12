@@ -17,6 +17,10 @@ The ability to share information between entries in this manner is available for
 
 Field referencing is quite simple. When you want to reference a field that is in the same Entry as the field you are editing, simple use `/nameOfField`. If the field name has spaces inside, use `/"name of field"`. 
 
+
+![fullscreen image](oddisy-documentation\static\img\concepts\field_referencing\field_reference.gif)
+
+
 ### Absolute References
 
 Absolute references allow you to reference information in other Entries. To access information from other Entries, simply use `/nameOfEntry/fieldName` or `/"name of entry"/"name of field"`. Again, if any part of the name uses spaces, remember to use quotations to ensure the reference is properly retrieved.
