@@ -58,15 +58,16 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://www.kodrick.com/',
-            label: 'Kodrick',
+            href: 'https://firebasestorage.googleapis.com/v0/b/oddisy-92980.appspot.com/o/public_downloads%2FOddisy_1.2.0_Setup.exe?alt=media&token=11988d29-8d57-4aab-a201-8769ead0320b',
+            label: 'Download (Windows)',
             position: 'right',
           },
           {
-            href: 'https://www.kodrick.com/oddisy',
-            label: 'Download',
+            href: 'https://www.dropbox.com/scl/fi/w296cpzmvm632ng0stw2o/com.kodrick.oddisy.flatpak?rlkey=zy1rrw4ctd781rwqejbjw1rb3&st=rsc7alyw&dl=1',
+            label: 'Download (Linux)',
             position: 'right',
           },
+
         ],
       },
       footer: {
@@ -111,12 +112,12 @@ const config = {
             title: 'More',
             items: [
               {
-                href: 'https://www.kodrick.com/',
-                label: 'Kodrick',
+                href: 'https://firebasestorage.googleapis.com/v0/b/oddisy-92980.appspot.com/o/public_downloads%2FOddisy_1.2.0_Setup.exe?alt=media&token=11988d29-8d57-4aab-a201-8769ead0320b',
+                label: 'Download (Windows)',
               },
               {
-                href: 'https://www.kodrick.com/oddisy',
-                label: 'Download',
+                href: 'https://www.dropbox.com/scl/fi/w296cpzmvm632ng0stw2o/com.kodrick.oddisy.flatpak?rlkey=zy1rrw4ctd781rwqejbjw1rb3&st=rsc7alyw&dl=1',
+                label: 'Download (Linux)',
               },
             ],
           },
